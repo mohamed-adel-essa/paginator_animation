@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af22e279-7fd0-474b-9c46-7e110a208c55" name="Default Changelist" comment="Documentation updated.">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_paginator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_paginator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/enums.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/enums.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/flutter_paginator.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/flutter_paginator.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ErrorWidgetBui</find>
+      <find>build</find>
+      <find>_</find>
+      <find>;</find>
+      <find>\w+</find>
+      <find>,</find>
+      <find>_\w+;</find>
+      <find>```</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>widget.</replace>
+      <replace>,</replace>
+      <replace>_</replace>
+      <replace>;</replace>
+      <replace>`</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="220" />
+    <option name="y" value="-10" />
+    <option name="width" value="1400" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectId" id="1dHiNcPvNMRyHeiK9malm5qxpth" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="Stateful&#9;null&#9;null&#10;framew&#9;FILE&#9;file://C:/src/flutter/packages/flutter/lib/src/widgets/framework.dart" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Udara\Documents\Flutter\flutter_paginator" />
+      <recent name="C:\Users\Udara\Documents\Flutter\flutter_paginator\flutter_paginator_example\lib" />
+      <recent name="C:\Users\Udara\Documents\Flutter\flutter_paginator\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/example/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af22e279-7fd0-474b-9c46-7e110a208c55" name="Default Changelist" comment="" />
+      <created>1549614251790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549614251790</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Documentation updated.">
+      <created>1550419216514</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550419216514</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Documentation updated.">
+      <created>1550419306974</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550419306974</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Documentation updated.">
+      <created>1550420585587</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1550420585587</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Documentation updated." />
+    <option name="LAST_COMMIT_MESSAGE" value="Documentation updated." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1592088457907">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1592088457907" />
+  </component>
+</project>
