@@ -1,7 +1,8 @@
 name: flutter_paginator
 description: A customizable pagination package for Flutter. This package can be used to fetch and display data from an API page by page.
 version: 0.0.6
-author: Udara Wanasinghe <udara.developer@gmail.com>
+ 
+
 homepage: https://github.com/UdaraWanasinghe/FlutterPaginator
 
 environment:
