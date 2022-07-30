@@ -1,3 +1,3 @@
-## [0.0.6] - Release
+## 0.0.1
 
-* A customizable paginator library written in dart.
+* TODO: Describe initial release.
